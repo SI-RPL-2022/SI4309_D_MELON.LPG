@@ -1,0 +1,68 @@
+body {
+    background-color: #ededed;
+}
+
+.container-login {
+    position: absolute;
+    width: 813px;
+    height: 427px;
+    left: 272px;
+    top: 107px;
+
+    background: #ffffff;
+    box-shadow: 0px 5px 6px 7px rgba(0, 0, 0, 0.25);
+}
+h5 {
+    color: white;
+    font-size: 25px;
+}
+p {
+    font-weight: bold;
+    font-size: 33px;
+}
+#LPG {
+    color: #34bc3d;
+}
+#login {
+    margin-left: 150px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: #807d7d;
+}
+.logo {
+    width: 407px;
+    height: 427px;
+    /* background: linear-gradient(
+        180deg,
+        #30c723 0%,
+        #7ffb8c 0.01%,
+        #10c800 100% */
+};
+
+label {
+    color: #0caf16;
+}
+.btn {
+    /* background: linear-gradient(
+        268.22deg,
+        #30c723 0%,
+        #7ffb8c 0.01%,
+        #10c800 100.66%
+    ); */
+    background:#0caf16;
+    font-size: 20px;
+    color: white;
+    /* box-shadow: 0px 10px 20px #5bea5e; */
+    border-radius: 10px;
+}
+.btn:hover {
+    color: #807d7d;
+}
+#buka {
+    color: #c0c0c0f1;
+    font-size: 15px;
+    text-align: center;
+    margin-top: 1rem;
+    font-weight: normal;
+}
